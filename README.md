@@ -124,11 +124,11 @@ Atenção a boas práticas e padronização de código (ESLint)
 
 ## 🔗 Links Importantes
 
-📧 E-mail: dhiego.natividade@hotmail.com
+📧 E-mail: [dhiego.natividade@hotmail.com](dhiego.natividade@hotmail.com)
 
-💼 LinkedIn: Meu LinkedIn
+💼 LinkedIn: [https://www.linkedin.com/in/diego-natividade-dev/](https://www.linkedin.com/in/diego-natividade-dev/)
 
-🌐 Portfólio/GitHub: Meu GitHub
+🌐 Portfólio/GitHub: [https://github.com/diegoddn](https://github.com/diegoddn)
 
 ---
 
